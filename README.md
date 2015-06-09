@@ -1,20 +1,17 @@
-# ![BogotáJS](https://raw.githubusercontent.com/coljs/bogotajs/master/assets/img/logo/BogotaJSTW.png)
-Respositiorio de la comunidad de [BogotáJS](http://bogotajs.com).
+<img src="https://raw.githubusercontent.com/bigdatacolombia/BigDataScienceBog/master/logo.png" alt="logo" style="width: 100px;"/>
+Respositiorio de la comunidad de [BigDataScienceBog](http://http://www.meetup.com/Big-Data-Science-Bogota).
 
 
 ## Organizadores
-- David Avellaneda [@davsket](http://twitter.com/davsket)
-- Giovanny Beltrán [@agar3s](http://twitter.com/agar3s)
-- David Roncancio [@kuryaki](http://twitter.com/kuryaki)
-- Jorge Zaccaro [@jorgezaccaro](http://twitter.com/jorgezaccaro)
-- Juan Pablo Buritica [@buritica](http://twitter.com/buritica) [remoto desde NY]
-- John Acosta [@jseros](http://twitter.com/jseros) [retirado/fundador]
+- Alejandro Zuleta [@in_array](http://twitter.com/in_array)
+- Alejandro Correa Bahnsen [@albahnsen](http://twitter.com/albahnsen)
+- Javier Rey [@](http://twitter.com/)
+- Juan Sebastian Neiza [@jsneiza](http://twitter.com/jsneiza)
+- Miguel Asencio [@](http://twitter.com/) 
+- Rene Rangel [@](http://twitter.com/) 
 
 ## Código de Conducta
-Conoce nuestro [Código de Conducta](https://github.com/coljs/bogotajs/blob/master/CODIGO-DE-CONDUCTA.md).
+Conoce nuestro [Código de Conducta](https://github.com/bigdatacolombia/BigDataScienceBog/blob/master/CODIGO-DE-CONDUCTA.md).
 
 ## Eventos
-Todos nuestros eventos se encuentran publicados en [Meetup BogotaJS](http://bogotajs.com)
-
-## NodeSchool
-Para saber más sobre nuestro NodeSchool visita: [NodeSchool Bogotá](https://github.com/nodeschool/bogota)
+Todos nuestros eventos se encuentran publicados en [Meetup BogotaJS](http://http://www.meetup.com/Big-Data-Science-Bogota)
