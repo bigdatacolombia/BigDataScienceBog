@@ -1,5 +1,5 @@
 # BogotáJS - Código de Conducta
-Adaptado del [Código de Conducta de Colombia.dev](https://github.com/colombia-dev/codigo-de-conducta)
+Adaptado del [[Código de Conducta de Colombia.dev]](https://github.com/colombia-dev/codigo-de-conducta) [[Código de Conducta de Bog.js]](https://github.com/coljs/bogotajs/blob/master/CODIGO-DE-CONDUCTA.md)
 
 ## 1. Propósito
 
