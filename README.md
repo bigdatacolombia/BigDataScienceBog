@@ -7,7 +7,7 @@ Respositiorio de la comunidad de [BigDataScienceBog](http://http://www.meetup.co
 - Alejandro Correa Bahnsen [@albahnsen](http://twitter.com/albahnsen)
 - Javier Rey [@](http://twitter.com/)
 - Juan Sebastian Neiza [@jsneiza](http://twitter.com/jsneiza)
-- Miguel Asencio [@aasencioh](http://twitter.com/maasencioh) 
+- Miguel Asencio [@maasencioh](http://twitter.com/maasencioh) 
 - Rene Rangel [@](http://twitter.com/) 
 
 ## Código de Conducta
